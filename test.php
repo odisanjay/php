@@ -1,3 +1,3 @@
 <?php
 
-echo "hello 12";
+echo "hello";
